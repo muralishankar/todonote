@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+li.list-group-item.strike-line {
+  text-decoration: line-through;  
+}
+ul.list-group {
+  max-width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
